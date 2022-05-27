@@ -1,1 +1,1 @@
-this is a second line ina  new diff file
+this is a new diff file
